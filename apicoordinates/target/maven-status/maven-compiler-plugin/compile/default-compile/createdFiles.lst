@@ -1,0 +1,10 @@
+com\dwp\codechallenge\apicoordinates\service\UserService.class
+com\dwp\codechallenge\apicoordinates\exceptions\AppExceptionsHandler.class
+com\dwp\codechallenge\apicoordinates\config\RestTemplateConfig.class
+com\dwp\codechallenge\apicoordinates\Utils\Utils.class
+com\dwp\codechallenge\apicoordinates\exceptions\InvalidCityException.class
+com\dwp\codechallenge\apicoordinates\model\User.class
+com\dwp\codechallenge\apicoordinates\controller\UserController.class
+com\dwp\codechallenge\apicoordinates\exceptions\ErrorMessage.class
+com\dwp\codechallenge\apicoordinates\ApicoordinatesApplication.class
+com\dwp\codechallenge\apicoordinates\constants\LondonCoordinates.class

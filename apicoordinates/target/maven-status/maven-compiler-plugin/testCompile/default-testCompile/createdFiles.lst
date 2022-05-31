@@ -1,0 +1,4 @@
+com\dwp\codechallenge\apicoordinates\ApicoordinatesApplicationTests.class
+com\dwp\codechallenge\apicoordinates\model\UserTest.class
+com\dwp\codechallenge\apicoordinates\controller\UserControllerTest.class
+com\dwp\codechallenge\apicoordinates\service\UserServiceTest.class
